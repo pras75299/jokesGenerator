@@ -12,4 +12,4 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Screenshot of app
-[App Screenshot](https://github.com/pras75299/jokesGenerator/blob/master/src/appss.png)
+[App Screenshot](https://github.com/pras75299/jokesGenerator/blob/master/src/Screenshotapp.png)
