@@ -4,7 +4,8 @@
   padding: 0px;
 }
 body{
-  background-color: rebeccapurple;
+  background: url(./weatherbg1.jpg) left top no-repeat, rebeccapurple;
+  background-size: cover;
   margin: 0px;
   font-family: 'Poppins', sans-serif;
   box-sizing: border-box;
