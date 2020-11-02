@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Used API
 
-`http://api.icndb.com/jokes/random`
+`https://api.icndb.com/jokes/random`
 
 ## Go Ahead Clone the repo and make changes
 
